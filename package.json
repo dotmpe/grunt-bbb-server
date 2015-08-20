@@ -21,7 +21,7 @@
       "url": "https://github.com/backbone-boilerplate/grunt-bbb-server/blob/master/LICENSE-MIT"
     }
   ],
-  "main": "Gruntfile.js",
+  "main": "Gruntfile.coffee",
   "engines": {
     "node": ">= 0.8.0"
   },
