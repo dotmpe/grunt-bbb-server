@@ -1,4 +1,6 @@
 
+install: npm install -g grunt-cli bower coveralls 
+
 language: node_js
 
 sudo: false
