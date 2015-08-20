@@ -1,5 +1,5 @@
 
-install: "npm install -g grunt-cli bower coveralls && npm install"
+before_script: "npm install -g grunt-cli bower coveralls"
 
 language: node_js
 
